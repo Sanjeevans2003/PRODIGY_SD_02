@@ -1,5 +1,4 @@
 # PRODIGY_SD_02
-Absolutely, here's a detailed README template for your Number Guessing Game on GitHub:
 
 Title: Number Guessing Game 
 
